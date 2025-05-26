@@ -12,7 +12,10 @@ Juan Diego Calderón Bermeo - 1000378849
 
 
 
-#### Link Colab:
+## Link Entrega 1
+#### Colab:
 https://colab.research.google.com/drive/16gb_1WxJ72tz4lZk530W6iAmIbQfQSLU?usp=sharing
 
-#### Link Video Entrega 2:
+## Links Entrega 2:
+#### Colab: https://colab.research.google.com/drive/1qGRrIIRGpeLgI1fzobttfl-l-VcX_ZOH
+#### Video: https://www.youtube.com/watch?v=eRtjKvK2hCg
