@@ -21,4 +21,4 @@ https://colab.research.google.com/drive/16gb_1WxJ72tz4lZk530W6iAmIbQfQSLU?usp=sh
 #### Video: https://www.youtube.com/watch?v=eRtjKvK2hCg
 
 ## Link Entrega 3:
-#### Video: https://www.youtube.com/watch?v=h1GWKCy1LRg
+#### Video: https://www.youtube.com/watch?v=AFv9SIwILPI
